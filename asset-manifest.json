@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mfe-master-app/static/css/main.d8f9fc59.chunk.css",
-    "main.js": "/mfe-master-app/static/js/main.2f8ebbcd.chunk.js",
-    "main.js.map": "/mfe-master-app/static/js/main.2f8ebbcd.chunk.js.map",
+    "main.js": "/mfe-master-app/static/js/main.5a36a324.chunk.js",
+    "main.js.map": "/mfe-master-app/static/js/main.5a36a324.chunk.js.map",
     "runtime-main.js": "/mfe-master-app/static/js/runtime-main.df17e5f0.js",
     "runtime-main.js.map": "/mfe-master-app/static/js/runtime-main.df17e5f0.js.map",
     "static/js/2.8ae73886.chunk.js": "/mfe-master-app/static/js/2.8ae73886.chunk.js",
     "static/js/2.8ae73886.chunk.js.map": "/mfe-master-app/static/js/2.8ae73886.chunk.js.map",
     "index.html": "/mfe-master-app/index.html",
-    "precache-manifest.86fe35479004917044793fc83c8028b5.js": "/mfe-master-app/precache-manifest.86fe35479004917044793fc83c8028b5.js",
+    "precache-manifest.6be7342e9ec016618a0c53d6d4fcd084.js": "/mfe-master-app/precache-manifest.6be7342e9ec016618a0c53d6d4fcd084.js",
     "service-worker.js": "/mfe-master-app/service-worker.js",
     "static/css/main.d8f9fc59.chunk.css.map": "/mfe-master-app/static/css/main.d8f9fc59.chunk.css.map",
     "static/js/2.8ae73886.chunk.js.LICENSE.txt": "/mfe-master-app/static/js/2.8ae73886.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.df17e5f0.js",
     "static/js/2.8ae73886.chunk.js",
     "static/css/main.d8f9fc59.chunk.css",
-    "static/js/main.2f8ebbcd.chunk.js"
+    "static/js/main.5a36a324.chunk.js"
   ]
 }
