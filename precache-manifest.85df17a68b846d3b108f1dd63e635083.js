@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60ce95ebd8a00d41aeb2030faa510131",
+    "revision": "7a4839b85943218bdd3ae0e2f5dd6182",
     "url": "/mfe-master-app/index.html"
   },
   {
-    "revision": "865be7c3a4b1b95f58fb",
+    "revision": "d27a137bbe3f7c5ee0c3",
     "url": "/mfe-master-app/static/css/main.d8f9fc59.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mfe-master-app/static/js/2.8ae73886.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "865be7c3a4b1b95f58fb",
-    "url": "/mfe-master-app/static/js/main.d559c460.chunk.js"
+    "revision": "d27a137bbe3f7c5ee0c3",
+    "url": "/mfe-master-app/static/js/main.7b754c33.chunk.js"
   },
   {
     "revision": "d595775f9b987967bd06",
